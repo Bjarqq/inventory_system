@@ -1,3 +1,4 @@
+-- Discord user: Bjarqq. Roblox user: Bjarqq
 local replicatedStorage = game:GetService("ReplicatedStorage")
 local userInputService = game:GetService("UserInputService")
 local runService = game:GetService("RunService")
